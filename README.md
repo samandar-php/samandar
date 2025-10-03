@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to Boburbro's profile!
+  Welcome to Samandar's profile!
   
 </h1>
 
