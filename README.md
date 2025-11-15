@@ -1,25 +1,22 @@
 <h1 align="center">
-  Welcome to Samandar's profile!
-  
+  👋 Welcome to Samandar's GitHub Profile!
 </h1>
 
-<div>
-  <img src="https://github.com/Boburbro/Boburbro/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+<div align="center">
+  <img src="https://github.com/Boburbro/Boburbro/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </div>
 
-# 💫 About Me:
-🔭 I’m currently working on a very secret project<br>🌱 I’m currently learning flutter<br>⚡ Fun fact i use arch
-
-<h1 align="center">Hi 👋, I'm Samandar</h1>
+<h1 align="center">Hi, I'm Samandar</h1>
 <h3 align="center">Full Stack Developer | Java & Spring Boot | Flutter | PHP | MySQL</h3>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Java Spring Boot Projects**
-- 🌱 I’m learning **Advanced Backend & Cloud Deployment**
-- 💬 Ask me about **Java, Spring Boot, Flutter, PHP**
-- ⚡ Fun fact: **Code, Coffee, Repeat ☕**
+- 🔭 Currently building **high-performance backend services with Spring Boot**
+- 🌱 Diving deeper into **Cloud technologies, Microservices and DevOps**
+- 💡 I enjoy solving complex problems and writing clean, scalable code
+- 💬 You can ask me about **Java, Spring Boot, Flutter, PHP, SQL**
+- ⚡ Fun fact: **I turn coffee into code ☕**
 
 ---
 
@@ -27,34 +24,33 @@
 
 #### 🔹 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,dart,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,php,dart" />
 </p>
 
 #### 🔹 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,flutter,laravel,react,git,github,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=spring,flutter,git,github,mysql,postgres,linux" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samandar-uz&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samandar-uz&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=samandar-uz&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🌐 Socials
 <p>
-  <a href="https://t.me/star_olam"><img src="https://skillicons.dev/icons?i=telegram"></a>
   <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 </p>
 
