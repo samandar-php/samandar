@@ -26,7 +26,7 @@
 
 #### 🔹 Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,flutter,git,github,mysql,postgres,linux" />
+  <img src="https://skillicons.dev/icons?i=spring,flutter,git,github,mysql,postgres,postman" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ### 🌐 Socials
 <p>
-  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://www.linkedin.com/in/samandar-uz"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 </p>
 
 ---
