@@ -1,6 +1,3 @@
-<h1 align="center">
-  👋 Welcome to Samandar's GitHub Profile!
-</h1>
 
 <div align="center">
   <img src="https://github.com/Boburbro/Boburbro/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
